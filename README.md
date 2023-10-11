@@ -1,4 +1,4 @@
 # portfolio-demo
 This is my new git repository.
 <br>
-Author - Rajat Parmar
+Author - Rajat Parmar (Management Associate)
