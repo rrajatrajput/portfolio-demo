@@ -1,12 +1,9 @@
-body {background-color: #A1CCD1;}
- h1 {color: #002B5B;}
-
-  h3 {color: #002B5B;}
-
-      hr {
-       border-style:none;
-       border-top-style: dotted;
-       border-color: oldlace;
-       border-width: 5px;
-       width: 10%;}
-       img {height: 150px;}
+ body {background-color: #FFE4D6;}
+      
+      hr {border-style: none;
+          border-color:grey ;
+          border-top-style: dotted;
+          border-width:5px;
+          width: 5%;
+          }
+          img { height: 200px;} 
